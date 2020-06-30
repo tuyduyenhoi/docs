@@ -1,23 +1,23 @@
 # ----
 # Site
 
-title: thumbsup
-url: "https://thumbsup.github.io"
+title: Live With Passion
+url: "https://tuyduyenhoi.github.io"
 baseurl: /docs
 google_analytics_key: UA-110087713-1
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Documentation for Thumbsup (static gallery generator)
+description: Blogs for Live With Passion
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Documentation (Github)
+  name: Blogs
   links:
-    - https://github.com/thumbsup/docs
+    - https://github.com/tuyduyenhoi/docs
 
 # -----
 # Build
@@ -37,7 +37,7 @@ exclude:
 
 collections:
   docs:
-    title: Documentation
+    title: Blogs
     permalink: /:path/
     output: true
 
