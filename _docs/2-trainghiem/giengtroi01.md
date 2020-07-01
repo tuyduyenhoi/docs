@@ -1,6 +1,6 @@
 ---
 title: Giếng Trời
-category: Trải nghiệm
+category: Cảm xúc
 order: 1
 ---
 
