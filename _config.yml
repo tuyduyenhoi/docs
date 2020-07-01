@@ -3,7 +3,7 @@
 
 title: Blogs
 url: "https://tuyduyenhoi.github.io"
-baseurl: https://tuyduyenhoi.github.io/
+baseurl: ../
 google_analytics_key: UA-110087713-1
 show_full_navigation: true
 
