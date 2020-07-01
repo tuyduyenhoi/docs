@@ -1,7 +1,7 @@
 ---
-title: Giengtroi
-category: Trekking
-order: 1
+title: Giếng Trời
+category: Hiking & Trekking
+order: 2
 ---
 
 Thumbsup generates HTML galleries for existing photos and videos.
