@@ -5,8 +5,11 @@ order: 2
 ---
 
 **Nếu bạn có chút máu mạo hiểm và yêu thích gần gũi với thiên nhiên, thì hãy thử đi tour hiking hoặc trekking, bạn sẽ có trải nghiệm nhớ đời.**
+
 Tuy nhiên, khái niệm “Hiking” và “Trekking” cũng còn khá mới với một số bạn ở Việt Nam, và ngay cả hai hoạt động dã ngoại này có một số điểm giống và cũng khác.
+
 Hiểu sự khác nhau giữa “hiking” và “trekking” để giúp bạn chọn ra một hành trình phù hợp.
+
 Thế sự khác nhau là gì? Hãy đọc thêm nhé.
 
 ```Hiking ngắn ngày đến Trolltunga, Norway```
@@ -29,6 +32,7 @@ Nói một cách đơn giản, hiking là một hoạt động giải trí (ho�
 **Đi Hiking thì như thế nào**
 
 Một chuyến hiking (tour hiking) là hoạt động giúp bạn gần với thiên nhiên, môi trường nơi bạn đến. Thường thức dậy vào sáng sớm, hít khí trời trong lành, chụp những bức ảnh sống ảo và đồng hành cùng với những người bạn cũng yêu thiên nhiên (giống bạn vậy đó).
+
 Tùy vào từng địa điểm, thi thoảng bạn cũng phải mang theo lều và giúp nhóm lửa nấu ăn. Những lúc khác thì nghỉ ở lán trại – tùy thuộc vào từng tour và cung hiking.
 
 Cung Hiking trên thế giới phải thử
@@ -38,6 +42,7 @@ Hầu như ai cũng có những địa điểm ưa thích để đi hiking. Như
 ![Tiger’s Nest, Bhutan](../../images/hiking/Tu+vien+Tigers+Nest+Bhutan.jpg)
 
 Hầu hết mọi người đi du lịch đến Bhutan đều thử hike leo dọc vách núi để thăm quan tu viện phật giáo Tigers Nest.
+
 Nằm cheo leo ở độ cao 900m so với mặt đất, cung đường leo này khá dốc nhưng cảnh đẹp thì hoàn toàn bõ công sức.
 - Khoảng cách: 3.25 kilometres (Lên và xuống)
 - Thời gian: Mất hai tiếng để lên đến đỉnh, tuy nhiên cứ thong thả từ 5-7 iếng cho toàn bộ hành trình. 
@@ -52,6 +57,7 @@ Một trong những cung hiking ngắn ngày đẹp nhất ở New Zealand, đ�
 ```Trolltunga, Norway```
 
 Nếu bạn đã từng thấy những tấm hình sống ảo ai đó đang chổng ngược ngay vách đá cheo leo trên hồ nước xanh, đó hẳn là ở Trolltunga.
+
 Vừa đẹp và tạo cảm giác hồi hộp, cung hike này vừa không những khó quên vì cảnh đẹp mà còn vì trải nghiệm hồi hộp giành cho ai ưa mạo hiểm.
 - Khoảng cách: 23 kilometres (hai chiều)
 - Thời gian: Từ 8 đến 10 tiếng
@@ -100,3 +106,4 @@ Mang theo nước và đồ ăn: Hầu hết mọi người cần ít nhất n�
 Tùy thuộc vào cuộc phiêu lưu bạn chọn, hiking hay trekking đều tuyệt vời và là một trong những hình thức du lịch độc đáo để trải nghiệm đất nước, thiên nhiên, văn hóa, con người. Bạn được ngắm các kỳ quan, trải nghiệm điều mới lạ, và thử thách bản thân như chưa từng làm. Nếu là cung trekking/hiking đầu tiên, bạn có thể sẽ thấy rằng mình tìm được một sở thích mới chăng?
 
 Tham khảo: [1](https://www.tourradar.com/days-to-come/hiking-vs-trekking-a-guide-for-beginners/) Hiking vs Trekking: A Beginer Guide
+
