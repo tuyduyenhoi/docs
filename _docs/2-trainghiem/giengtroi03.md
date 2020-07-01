@@ -51,8 +51,8 @@ Tiếp theo.... (Phần 3: Bữa tiệc hoành tráng giữa đại ngàn)
 
 ![Gieng troi 03_1](../../images/giengtroi/giengtroi03_1.jpg)
 
-![Gieng troi 02_2](../../images/giengtroi/giengtroi02_2.jpg)
+![Gieng troi 03_2](../../images/giengtroi/giengtroi03_2.jpg)
 
-![Gieng troi 02_3](../../images/giengtroi/giengtroi02_3.jpg)
+![Gieng troi 03_3](../../images/giengtroi/giengtroi03_3.jpg)
 
-![Gieng troi 02_4](../../images/giengtroi/giengtroi02_4.jpg)
+![Gieng troi 03_4](../../images/giengtroi/giengtroi03_4.jpg)

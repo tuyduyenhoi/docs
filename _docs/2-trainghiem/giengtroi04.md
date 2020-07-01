@@ -68,11 +68,10 @@ Chúng tôi đốt đống lửa to bên vách đá. Dùng tấm bạc nhựa tr
 
 (Chưa xong phần 3, giờ tác giả chuẩn bị đi ăn tiệc. Tối về viết tiếp phần ăn uống, ca hát và ngủ nghê :-D)
 
-```Bếp lửa : sự no ấm, đủ đầy và đây cũng là minh chứng cho sự an toàn của chuyến đi```
-![Bếp lửa](../../images/giengtroi/giengtroi01_2.jpg)
+![Gieng troi 04_1](../../images/giengtroi/giengtroi04_1.jpg)
 
-![Gieng troi 02_2](../../images/giengtroi/giengtroi02_2.jpg)
+![Gieng troi 04_2](../../images/giengtroi/giengtroi04_2.jpg)
 
-![Gieng troi 02_3](../../images/giengtroi/giengtroi02_3.jpg)
+![Gieng troi 04_3](../../images/giengtroi/giengtroi04_3.jpg)
 
-![Gieng troi 02_4](../../images/giengtroi/giengtroi02_4.jpg)
+![Gieng troi 04_4](../../images/giengtroi/giengtroi04_4.jpg)
