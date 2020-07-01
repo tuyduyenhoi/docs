@@ -19,15 +19,15 @@ Hiking và Trekking
     <td>Giữa vùng rừng núi của xã Hòa Ninh, huyện Hòa Vang có một khu được gọi là Giếng Trời. Do nằm sâu trong núi lại ít người biết đến nên vẫn còn nguyên vẻ hoang sơ của thiên nhiên và đây chính là điểm đến hấp dẫn những bạn trẻ ưa mạo hiểm.</td>
   </tr>
     <tr>
-    <th><a href="2-trainghiem/giengtroi02">Giếng Trời</a></th>
+    <th><a href="2-trainghiem/giengtroi02">Phần 1</a></th>
     <td>NGƯỜI VỚI NGƯỜI, QUÁ ĐỖI YÊU THƯƠNG! (Phần mở đầu)</td>
   </tr>
     <tr>
-    <th><a href="2-trainghiem/giengtroi03">Giếng Trời</a></th>
+    <th><a href="2-trainghiem/giengtroi03">Phần 2</a></th>
     <td>Khi chúng ta đồng lòng, thử thách bị bỏ lại sau mỗi bước chân</td>
   </tr>
     <tr>
-    <th><a href="2-trainghiem/giengtroi04">Giếng Trời</a></th>
+    <th><a href="2-trainghiem/giengtroi04">Phần 3</a></th>
     <td>Bữa tiệc hoành tráng giữa đại ngàn</td>
   </tr>
 </table>
