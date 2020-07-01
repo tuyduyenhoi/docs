@@ -1,5 +1,5 @@
 ---
-title: Giới thiệu
+title: Intro
 category: Hiking
 order: 1
 ---
