@@ -9,8 +9,8 @@ Tuy nhiên, khái niệm “Hiking” và “Trekking” cũng còn khá mới v
 Hiểu sự khác nhau giữa “hiking” và “trekking” để giúp bạn chọn ra một hành trình phù hợp.
 Thế sự khác nhau là gì? Hãy đọc thêm nhé.
 
-![Hiking ngắn ngày đến Trolltunga, Norway](../../images/hiking/Trolltunga-Norway.jpg)
 ```Hiking ngắn ngày đến Trolltunga, Norway```
+![Hiking ngắn ngày đến Trolltunga, Norway](../../images/hiking/Trolltunga-Norway.jpg)
 
 **Hiking là gì**
 

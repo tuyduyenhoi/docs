@@ -5,12 +5,15 @@ order: 1
 ---
 
 **Nếu bạn có chút máu mạo hiểm và yêu thích gần gũi với thiên nhiên, thì hãy thử đi tour hiking hoặc trekking, bạn sẽ có trải nghiệm nhớ đời.**
+
 Tuy nhiên, khái niệm “Hiking” và “Trekking” cũng còn khá mới với một số bạn ở Việt Nam, và ngay cả hai hoạt động dã ngoại này có một số điểm giống và cũng khác.
+
 Hiểu sự khác nhau giữa “hiking” và “trekking” để giúp bạn chọn ra một hành trình phù hợp.
+
 Thế sự khác nhau là gì? Hãy đọc thêm nhé.
 
-![Hiking ngắn ngày đến Trolltunga, Norway](../../images/hiking/Trolltunga-Norway.jpg)
 ```Hiking ngắn ngày đến Trolltunga, Norway```
+![Hiking ngắn ngày đến Trolltunga, Norway](../../images/hiking/Trolltunga-Norway.jpg)
 
 **Hiking là gì**
 
