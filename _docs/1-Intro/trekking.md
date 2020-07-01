@@ -60,7 +60,7 @@ Hãy can đảm vì cung đường dài và hãy chuận bị giấy phép (perm
 - Thời gian: 3 tuần nếu bạn hoàn thành toàn bộ cung
 
 ```Torres del Paine Lookout, Chile```
-![Torres del Paine Lookout, Chile](../../images/trekking/Torres-del-Paine-+Lookout-Chile.jpg)
+![Torres del Paine Lookout, Chile](../../images/trekking/Torres-del-Paine-Lookout-Chile.jpg)
 
 ```W Circuit – Torres del Paine, Chile```
 Nằm ở vùng Patagonia ở Chile giữa rặng Andes và thảo nguyên Patagonia, cung đường thật sự hoàn hảo cho ai muốn trải nghiệm thiên nhiên diệu kỳ.
