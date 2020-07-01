@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Live With Passion
+title: Blogs
 url: "https://tuyduyenhoi.github.io"
-baseurl: /docs
+baseurl: https://tuyduyenhoi.github.io/
 google_analytics_key: UA-110087713-1
 show_full_navigation: true
 
